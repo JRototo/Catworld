@@ -1,0 +1,40 @@
+.h1 {
+  color:#DC9D67;
+  font-size:45px;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+  color:#644224;
+  border-bottom: 2px solid #644224;
+  padding-bottom: 5px;
+  margin: 0;
+
+}
+h3 {
+  font-size: 30px;
+  color:#48321F;
+  text-align: center;
+}
+a, ol{
+  text-decoration:none;
+  color:#48321F;
+  font-size:18px;
+}
+ol {
+  border-right: 2px solid #644224;
+  margin: 0px;
+  padding-left: 30px;
+  padding-top: 15px;
+}
+#grid{
+  display: grid;
+  grid-template-columns: 150px 1fr
+}
+#article {
+  text-align: center;
+}
+#ma {
+  text-align: center;
+}
